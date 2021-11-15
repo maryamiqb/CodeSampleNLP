@@ -1,2 +1,2 @@
 # CodeSampleNLP
-Code samples in Python and R.
+Code samples in Python.
